@@ -21,7 +21,7 @@ module.exports = {
         'Bdestokp': "url('./images/pattern-background-desktop.svg')",
         'Bmobile': "url('./images/pattern-background-mobile.svg')"
         
-      }
+      },
   },
   plugins: [],
 }
